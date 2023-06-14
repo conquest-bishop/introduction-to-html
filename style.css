@@ -1,0 +1,27 @@
+/* top bar (header) */
+
+.header{
+    background-color: #1e1e1e;
+    height: 60px;
+}
+        
+            .header-logo{
+            float: center;
+            font-size: 40px;
+            color: #FAF9F6;
+            font-family: Varela round;
+            padding: 10px 20px;
+            }
+
+ /* main body */
+            .main {
+                background-color: #3e3e42;
+                height: 900px;
+                
+            }
+
+ /* footer/bottom bar */
+ .footer {
+    background-color: #1e1e1e;
+    height: 90px;
+ }
